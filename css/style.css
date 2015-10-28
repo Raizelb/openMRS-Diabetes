@@ -356,7 +356,7 @@
 			display: inline-block;
 			padding-right: 1em;
 			font-size: 1.4em;
-			color: #82b440;
+			color: #4082b4;
 		}
 
 		ul.special-icons p {
@@ -510,7 +510,7 @@
 
 		.wrapper.style3 {
 			padding-bottom: 6em;
-			background: #82b440;
+			background: #4082b4;
 			text-align: center;
 			color: white;
 		}
@@ -526,10 +526,11 @@
 
 		.wrapper.style4 {
 			background: white;
+			text-align: center;
 		}
 
 		.wrapper.style5 {
-			background: #82b440;
+			background: #4082b4;
 			text-align: center;
 			color: white;
 		}
